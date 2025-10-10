@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Bharathkannan
-- 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested development 
+- 🌱 I’m currently learning ReactJS and it's framework
+- 💞️ I’m looking to collaborate on open sorce project
+- 📫 How to reach me bharathkannan1007@gmail.com
+- 😄 Pronouns: BK
+- ⚡ Fun fact: Take It Easy... Make It Cool 😉
 
 <!---
 Bharath-1007/Bharath-1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
